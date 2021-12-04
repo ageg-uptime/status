@@ -1,31 +1,47 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ageg-uptime # Your GitHub organization or username, where this repository lives
+repo: ageg-uptime.github.io # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: AGEG website
+    url: https://www.ageg.ca/
+  - name: UdeS website
+    url: https://www.usherbrooke.ca/
+  - name: 2 Minutes de génie (prod)
+    url: https://2mdg.ageg.ca/
+  - name: 2 Minutes de génie (gitlab page)
+    url: https://2mdg.gitlab.io/
+  - name: 2 Minutes de génie (staging)
+    url: https://2mdgstaging.gitlab.io/
+
+assignees:
+  - mdaoustudes
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  # cname: demo.upptime.js.org
+  baseUrl: /
+  logoUrl: https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-1.png
+  name: Upptime for AGEG related websites
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/ageg-uptime/ageg-uptime.github.io). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: UdeS status
+      href: https://etatdesservices.usherbrooke.ca/
+
+workflowSchedule:
+  graphs: "0 0 * * *" #At 00:00.
+  responseTime: "0 23 * * *" #At 23:00.
+  staticSite: "0 1 * * *" #At 01:00.
+  summary: "0 0 * * *" #At 00:00.
+  updateTemplate: "0 0 * * *" #At 00:00.
+  updates: "0 3 * * *" #At 03:00.
+  uptime: "*/5 * * * *" #At every 5th minute.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
