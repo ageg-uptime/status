@@ -22,7 +22,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  # baseUrl: /
+  baseUrl: /./
   logoUrl: https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-1.png
   name: Upptime for AGEG related websites
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
