@@ -28,8 +28,6 @@ status-website:
   introTitle: "Status page for AGEG related websites"
   theme: dark
   navbar:
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
     - title: UdeS status
       href: https://etatdesservices.usherbrooke.ca/
 
