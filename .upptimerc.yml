@@ -6,14 +6,19 @@ user-agent: mdaoustudes
 sites:
   - name: AGEG website
     url: https://www.ageg.ca/
+    icon: https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png
   - name: UdeS website
     url: https://www.usherbrooke.ca/
+    icon: https://www.usherbrooke.ca/favicon.ico
   - name: 2 Minutes de génie (prod)
     url: https://2mdg.ageg.ca/
+    icon: https://2mdg.ageg.ca/images/logo-2mg.png
   - name: 2 Minutes de génie (gitlab page)
     url: https://2mdg.gitlab.io/
+    icon: https://about.gitlab.com/ico/favicon.ico
   - name: 2 Minutes de génie (staging)
     url: https://2mdgstaging.gitlab.io/
+    icon: https://about.gitlab.com/ico/favicon.ico
 
 assignees:
   - mdaoustudes
