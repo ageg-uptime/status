@@ -24,7 +24,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-1.png
-  name: Upptime
+  name: AGEG status
   introTitle: "Status page for AGEG related websites"
   theme: dark
   navbar:
