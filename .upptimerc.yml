@@ -67,12 +67,20 @@ i18n:
   footer: This page is [open source]($REPO)
 
 workflowSchedule:
-  graphs: "0 0 * * *" #At 00:00.
-  responseTime: "0 23 * * *" #At 23:00.
-  staticSite: "0 1 * * *" #At 01:00.
-  summary: "0 0 * * *" #At 00:00.
-  updateTemplate: "0 0 * * *" #At 00:00.
-  updates: "0 3 * * *" #At 03:00.
+  #graphs: "0 0 * * *" #At 00:00.
+  #responseTime: "0 23 * * *" #At 23:00.
+  #staticSite: "0 1 * * *" #At 01:00.
+  #summary: "0 0 * * *" #At 00:00.
+  #updateTemplate: "0 0 * * *" #At 00:00.
+  #updates: "0 3 * * *" #At 03:00.
+  #uptime: "*/5 * * * *" #At every 5th minute.
+
+  graphs: "0 * * * *" #At minute 0.
+  responseTime: "*/5 * * * *" #At every 5th minute.
+  staticSite: "1 * * * *" #At minute 1.
+  summary: "0 * * * *" #At minute 0.
+  updateTemplate: "0 * * * *" #At minute 0.
+  updates: "3 * * * *" #At minute 3.
   uptime: "*/5 * * * *" #At every 5th minute.
 
 # Upptime also supports notifications, assigning issues, and more
