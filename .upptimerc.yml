@@ -11,6 +11,22 @@ sites:
     url: https://www.usherbrooke.ca/
     icon: https://www.usherbrooke.ca/favicon.ico
     maxResponseTime: 1000
+  - name: Integrations (prod)
+    url: https://integrations.ageg.ca/
+    icon: https://integrations.ageg.ca/favicon.ico
+    maxResponseTime: 1000
+  - name: Integration (redirect)
+    url: https://integration.ageg.ca/
+    icon: https://integration.ageg.ca/favicon.ico
+    maxResponseTime: 1000
+  - name: Integs (redirect)
+    url: https://integs.ageg.ca/
+    icon: https://integs.ageg.ca/favicon.ico
+    maxResponseTime: 1000
+  - name: Integ (redirect)
+    url: https://integ.ageg.ca/
+    icon: https://integ.ageg.ca/favicon.ico
+    maxResponseTime: 1000
   - name: 2 Minutes de génie (prod)
     url: https://2mdg.ageg.ca/
     icon: https://2mdg.ageg.ca/images/logo-2mg.png
