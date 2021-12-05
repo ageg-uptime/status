@@ -5,14 +5,12 @@ user-agent: mdaoustudes
 skipTopicsUpdate: true
 
 sites:
-  - name: UdeS website
-    slug: "usherbrooke-ca"
+  - name: UdeS website (prod)
     url: https://www.usherbrooke.ca/
     icon: https://www.usherbrooke.ca/favicon.ico
     maxResponseTime: 1000
 
   - name: AGEG website (prod)
-    slug: "ageg-ca-prod"
     url: https://www.ageg.ca/
     icon: https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png
     maxResponseTime: 2000
