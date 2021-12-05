@@ -1,6 +1,5 @@
-# Change these first
-owner: ageg-status # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: ageg-status
+repo: status
 user-agent: mdaoustudes
 
 sites:
@@ -24,10 +23,7 @@ assignees:
   - mdaoustudes
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status
+  cname: ageg-status.github.io
   logoUrl: https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-1.png
   name: AGEG status
   introTitle: "Status page for AGEG related websites"
