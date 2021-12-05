@@ -11,6 +11,10 @@ sites:
     url: https://www.usherbrooke.ca/
     icon: https://www.usherbrooke.ca/favicon.ico
     maxResponseTime: 1000
+  - name: Vote (prod)
+    url: https://vote.ageg.ca/
+    icon: https://vote.ageg.ca/tmp/assets/c35a266c/favicon.ico
+    maxResponseTime: 1000
   - name: Integrations (prod)
     url: https://integrations.ageg.ca/
     icon: https://integrations.ageg.ca/favicon.ico
