@@ -16,44 +16,36 @@ sites:
     maxResponseTime: 2000
 
   - name: Vote (prod)
-    slug: vote-prod
     url: https://vote.ageg.ca/
     icon: https://vote.ageg.ca/tmp/assets/c35a266c/favicon.ico
     maxResponseTime: 1000
 
   - name: Integrations (prod)
-    slug: integrations-prod
     url: https://integrations.ageg.ca/
     icon: https://integrations.ageg.ca/favicon.ico
     maxResponseTime: 500
   - name: Integration (redirect)
-    slug: integration-redirect
     url: https://integration.ageg.ca/
     icon: https://integration.ageg.ca/favicon.ico
     maxResponseTime: 500
   - name: Integs (redirect)
-    slug: integs-redirect
     url: https://integs.ageg.ca/
     icon: https://integs.ageg.ca/favicon.ico
     maxResponseTime: 500
   - name: Integ (redirect)
-    slug: integ-redirect
     url: https://integ.ageg.ca/
     icon: https://integ.ageg.ca/favicon.ico
     maxResponseTime: 500
 
   - name: 2 Minutes de génie (prod)
-    slug: 2-minutes-de-genie-prod
     url: https://2mdg.ageg.ca/
     icon: https://2mdg.ageg.ca/images/logo-2mg.png
     maxResponseTime: 750
   - name: 2 Minutes de génie (gitlab page)
-    slug: 2-minutes-de-genie-gitlab-page
     url: https://2mdg.gitlab.io/
     icon: https://about.gitlab.com/ico/favicon.ico
     maxResponseTime: 750
   - name: 2 Minutes de génie (staging)
-    slug: 2-minutes-de-genie-staging
     url: https://2mdgstaging.gitlab.io/
     icon: https://about.gitlab.com/ico/favicon.ico
     maxResponseTime: 750
