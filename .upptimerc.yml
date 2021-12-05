@@ -5,7 +5,7 @@ user-agent: mdaoustudes
 skipTopicsUpdate: true
 
 sites:
-  - name: UDES website
+  - name: UdeS website
     slug: usherbrooke-ca
     url: https://www.usherbrooke.ca/
     icon: https://www.usherbrooke.ca/favicon.ico
