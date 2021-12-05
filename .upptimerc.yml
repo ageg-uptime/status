@@ -8,12 +8,12 @@ sites:
   - name: UdeS website (prod)
     url: https://www.usherbrooke.ca/
     icon: https://www.usherbrooke.ca/favicon.ico
-    maxResponseTime: 1000
+    maxResponseTime: 800
 
   - name: AGEG website (prod)
     url: https://www.ageg.ca/
     icon: https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png
-    maxResponseTime: 2000
+    maxResponseTime: 1000
 
   - name: Vote (prod)
     url: https://vote.ageg.ca/
@@ -23,32 +23,32 @@ sites:
   - name: Integrations (prod)
     url: https://integrations.ageg.ca/
     icon: https://integrations.ageg.ca/favicon.ico
-    maxResponseTime: 500
+    maxResponseTime: 400
   - name: Integration (redirect)
     url: https://integration.ageg.ca/
     icon: https://integration.ageg.ca/favicon.ico
-    maxResponseTime: 500
+    maxResponseTime: 400
   - name: Integs (redirect)
     url: https://integs.ageg.ca/
     icon: https://integs.ageg.ca/favicon.ico
-    maxResponseTime: 500
+    maxResponseTime: 400
   - name: Integ (redirect)
     url: https://integ.ageg.ca/
     icon: https://integ.ageg.ca/favicon.ico
-    maxResponseTime: 500
+    maxResponseTime: 400
 
   - name: 2 Minutes de génie (prod)
     url: https://2mdg.ageg.ca/
     icon: https://2mdg.ageg.ca/images/logo-2mg.png
-    maxResponseTime: 750
+    maxResponseTime: 600
   - name: 2 Minutes de génie (gitlab page)
     url: https://2mdg.gitlab.io/
     icon: https://about.gitlab.com/ico/favicon.ico
-    maxResponseTime: 750
+    maxResponseTime: 600
   - name: 2 Minutes de génie (staging)
     url: https://2mdgstaging.gitlab.io/
     icon: https://about.gitlab.com/ico/favicon.ico
-    maxResponseTime: 750
+    maxResponseTime: 600
 
 assignees:
   - mdaoustudes
