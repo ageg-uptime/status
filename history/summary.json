@@ -23,19 +23,17 @@
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-prod",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 918,
     "timeDay": 918,
     "timeWeek": 918,
     "timeMonth": 918,
     "timeYear": 918,
-    "dailyMinutesDown": {
-      "2021-12-05": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vote (prod)",
