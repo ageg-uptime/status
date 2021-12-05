@@ -3,43 +3,57 @@ repo: ageg-status.github.io
 user-agent: mdaoustudes
 
 sites:
-  - name: USherbrooke.ca (prod)
+  - name: UdeS website (prod)
+    slug: usherbrooke-ca
     url: https://www.usherbrooke.ca/
     icon: https://www.usherbrooke.ca/favicon.ico
     maxResponseTime: 1000
-  - name: ageg.ca (prod)
+
+  - name: AGEG website (prod)
+    slug: ageg-ca-prod
     url: https://www.ageg.ca/
     icon: https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png
     maxResponseTime: 2000
+
   - name: Vote (prod)
+    slug: vote-prod
     url: https://vote.ageg.ca/
     icon: https://vote.ageg.ca/tmp/assets/c35a266c/favicon.ico
     maxResponseTime: 1000
+
   - name: Integrations (prod)
+    slug: integrations-prod
     url: https://integrations.ageg.ca/
     icon: https://integrations.ageg.ca/favicon.ico
-    maxResponseTime: 1000
+    maxResponseTime: 500
   - name: Integration (redirect)
+    slug: integration-redirect
     url: https://integration.ageg.ca/
     icon: https://integration.ageg.ca/favicon.ico
-    maxResponseTime: 1000
+    maxResponseTime: 500
   - name: Integs (redirect)
+    slug: integs-redirect
     url: https://integs.ageg.ca/
     icon: https://integs.ageg.ca/favicon.ico
-    maxResponseTime: 1000
+    maxResponseTime: 500
   - name: Integ (redirect)
+    slug: integ-redirect
     url: https://integ.ageg.ca/
     icon: https://integ.ageg.ca/favicon.ico
-    maxResponseTime: 1000
+    maxResponseTime: 500
+
   - name: 2 Minutes de génie (prod)
+    slug: 2-minutes-de-genie-prod
     url: https://2mdg.ageg.ca/
     icon: https://2mdg.ageg.ca/images/logo-2mg.png
     maxResponseTime: 750
   - name: 2 Minutes de génie (gitlab page)
+    slug: 2-minutes-de-genie-gitlab-page
     url: https://2mdg.gitlab.io/
     icon: https://about.gitlab.com/ico/favicon.ico
     maxResponseTime: 750
   - name: 2 Minutes de génie (staging)
+    slug: 2-minutes-de-genie-staging
     url: https://2mdgstaging.gitlab.io/
     icon: https://about.gitlab.com/ico/favicon.ico
     maxResponseTime: 750
