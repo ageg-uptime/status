@@ -2,8 +2,10 @@ owner: ageg-status
 repo: ageg-status.github.io
 user-agent: mdaoustudes
 
+skipTopicsUpdate: true
+
 sites:
-  - name: UdeS website (prod)
+  - name: UdeS website
     slug: usherbrooke-ca
     url: https://www.usherbrooke.ca/
     icon: https://www.usherbrooke.ca/favicon.ico
@@ -70,6 +72,9 @@ status-website:
   navbar:
     - title: UdeS status
       href: https://etatdesservices.usherbrooke.ca/
+
+i18n:
+  footer: This page is [open source]($REPO)
 
 workflowSchedule:
   graphs: "0 0 * * *" #At 00:00.
