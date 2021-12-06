@@ -40,15 +40,15 @@ sites:
   - name: 2 Minutes de génie (prod)
     url: https://2mdg.ageg.ca/
     icon: https://2mdg.ageg.ca/images/logo-2mg.png
-    maxResponseTime: 600
+    maxResponseTime: 400
   - name: 2 Minutes de génie (gitlab page)
     url: https://2mdg.gitlab.io/
     icon: https://about.gitlab.com/ico/favicon.ico
-    maxResponseTime: 600
+    maxResponseTime: 400
   - name: 2 Minutes de génie (staging)
     url: https://2mdgstaging.gitlab.io/
     icon: https://about.gitlab.com/ico/favicon.ico
-    maxResponseTime: 600
+    maxResponseTime: 400
 
 assignees:
   - mdaoustudes
