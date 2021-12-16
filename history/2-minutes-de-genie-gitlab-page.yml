@@ -1,7 +1,7 @@
 url: https://2mdg.gitlab.io/
-status: up
-code: 200
-responseTime: 67
-lastUpdated: 2021-12-15T23:23:05.578Z
+status: degraded
+code: 502
+responseTime: 3114
+lastUpdated: 2021-12-16T13:30:47.602Z
 startTime: Sat Dec 04 2021 21:45:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
