@@ -22,7 +22,7 @@ sites:
     url: https://ageg.ca/
     icon: https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png
     expectedStatusCodes:
-      - 301
+      - 200
     maxResponseTime: 800
 
   - name: Vote (prod)
@@ -42,19 +42,19 @@ sites:
     url: https://integration.ageg.ca/
     icon: https://integration.ageg.ca/favicon.ico
     expectedStatusCodes:
-      - 301
+      - 200
     maxResponseTime: 400
   - name: Integs (redirect)
     url: https://integs.ageg.ca/
     icon: https://integs.ageg.ca/favicon.ico
     expectedStatusCodes:
-      - 301
+      - 200
     maxResponseTime: 400
   - name: Integ (redirect)
     url: https://integ.ageg.ca/
     icon: https://integ.ageg.ca/favicon.ico
     expectedStatusCodes:
-      - 301
+      - 200
     maxResponseTime: 400
 
   - name: 2 Minutes de génie (prod)
