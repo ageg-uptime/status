@@ -23,6 +23,7 @@ sites:
     icon: https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png
     expectedStatusCodes:
       - 200
+      - 301
     maxResponseTime: 800
 
   - name: Vote (prod)
@@ -43,18 +44,21 @@ sites:
     icon: https://integration.ageg.ca/favicon.ico
     expectedStatusCodes:
       - 200
+      - 301
     maxResponseTime: 400
   - name: Integs (redirect)
     url: https://integs.ageg.ca/
     icon: https://integs.ageg.ca/favicon.ico
     expectedStatusCodes:
       - 200
+      - 301
     maxResponseTime: 400
   - name: Integ (redirect)
     url: https://integ.ageg.ca/
     icon: https://integ.ageg.ca/favicon.ico
     expectedStatusCodes:
       - 200
+      - 301
     maxResponseTime: 400
 
   - name: 2 Minutes de génie (prod)
@@ -83,6 +87,7 @@ sites:
   - name: Sécurité UdeS (redirect)
     url: https://www.usherbrooke.ca/immeubles/la-securite/
     expectedStatusCodes:
+      - 200
       - 303
   - name: Formulaire activités sécurité UdeS (prod)
     url: https://www.usherbrooke.ca/smsp/service-a-la-clientele/activites-sur-les-campus
@@ -91,6 +96,7 @@ sites:
   - name: Formulaire activités sécurité UdeS (redirect)
     url: https://www.usherbrooke.ca/immeubles/la-securite/formulaires/
     expectedStatusCodes:
+      - 200
       - 303
 
 assignees:
