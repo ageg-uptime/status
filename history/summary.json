@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.58%",
     "uptimeYear": "97.58%",
-    "time": 558,
-    "timeDay": 402,
-    "timeWeek": 468,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "time": 556,
+    "timeDay": 418,
+    "timeWeek": 466,
+    "timeMonth": 556,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2021-12-12": 543
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.70%",
     "uptimeYear": "98.70%",
-    "time": 887,
-    "timeDay": 528,
-    "timeWeek": 531,
-    "timeMonth": 887,
-    "timeYear": 887,
+    "time": 884,
+    "timeDay": 567,
+    "timeWeek": 544,
+    "timeMonth": 884,
+    "timeYear": 884,
     "dailyMinutesDown": {
       "2021-12-13": 265,
       "2021-12-08": 27
@@ -46,18 +46,18 @@
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-redirect",
     "status": "degraded",
-    "uptime": "8.91%",
-    "uptimeDay": "8.91%",
-    "uptimeWeek": "8.91%",
-    "uptimeMonth": "8.91%",
-    "uptimeYear": "8.91%",
-    "time": 1250,
-    "timeDay": 1250,
-    "timeWeek": 1250,
-    "timeMonth": 1250,
-    "timeYear": 1250,
+    "uptime": "1.55%",
+    "uptimeDay": "1.55%",
+    "uptimeWeek": "1.55%",
+    "uptimeMonth": "1.55%",
+    "uptimeYear": "1.55%",
+    "time": 1090,
+    "timeDay": 1090,
+    "timeWeek": 1090,
+    "timeMonth": 1090,
+    "timeYear": 1090,
     "dailyMinutesDown": {
-      "2021-12-20": 1
+      "2021-12-20": 4
     }
   },
   {
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "98.72%",
-    "time": 556,
-    "timeDay": 573,
-    "timeWeek": 575,
-    "timeMonth": 556,
-    "timeYear": 556,
+    "time": 555,
+    "timeDay": 533,
+    "timeWeek": 562,
+    "timeMonth": 555,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2021-12-13": 264,
       "2021-12-08": 27
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 299,
-    "timeWeek": 275,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "time": 268,
+    "timeDay": 260,
+    "timeWeek": 265,
+    "timeMonth": 268,
+    "timeYear": 268,
     "dailyMinutesDown": {}
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://integration.ageg.ca/",
     "icon": "https://integration.ageg.ca/favicon.ico",
     "slug": "integration-redirect",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 260,
-    "timeDay": 314,
-    "timeWeek": 260,
+    "timeDay": 275,
+    "timeWeek": 253,
     "timeMonth": 260,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2021-12-20": 1
+      "2021-12-20": 4
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://integs.ageg.ca/",
     "icon": "https://integs.ageg.ca/favicon.ico",
     "slug": "integs-redirect",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 321,
-    "timeWeek": 256,
-    "timeMonth": 280,
-    "timeYear": 280,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 279,
+    "timeDay": 278,
+    "timeWeek": 249,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2021-12-20": 1
+      "2021-12-20": 4
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://integ.ageg.ca/",
     "icon": "https://integ.ageg.ca/favicon.ico",
     "slug": "integ-redirect",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 264,
-    "timeDay": 313,
-    "timeWeek": 263,
+    "timeDay": 286,
+    "timeWeek": 259,
     "timeMonth": 264,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2021-12-20": 1
+      "2021-12-20": 4
     }
   },
   {
@@ -170,11 +170,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 379,
-    "timeDay": 71,
-    "timeWeek": 114,
-    "timeMonth": 379,
-    "timeYear": 379,
+    "time": 375,
+    "timeDay": 70,
+    "timeWeek": 109,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2021-12-20": 29
     }
@@ -190,11 +190,11 @@
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.70%",
-    "time": 489,
-    "timeDay": 987,
-    "timeWeek": 963,
-    "timeMonth": 489,
-    "timeYear": 489,
+    "time": 487,
+    "timeDay": 859,
+    "timeWeek": 926,
+    "timeMonth": 487,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2021-12-20": 29,
       "2021-12-15": 39
@@ -211,11 +211,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 654,
-    "timeDay": 926,
-    "timeWeek": 1641,
-    "timeMonth": 654,
-    "timeYear": 654,
+    "time": 651,
+    "timeDay": 815,
+    "timeWeek": 1567,
+    "timeMonth": 651,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2021-12-20": 29
     }
@@ -231,11 +231,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 982,
-    "timeDay": 982,
-    "timeWeek": 982,
-    "timeMonth": 982,
-    "timeYear": 982,
+    "time": 698,
+    "timeDay": 698,
+    "timeWeek": 698,
+    "timeMonth": 698,
+    "timeYear": 698,
     "dailyMinutesDown": {}
   },
   {
@@ -244,18 +244,18 @@
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-redirect",
     "status": "down",
-    "uptime": "7.26%",
-    "uptimeDay": "7.26%",
-    "uptimeWeek": "7.26%",
-    "uptimeMonth": "7.26%",
-    "uptimeYear": "7.26%",
-    "time": 510,
-    "timeDay": 510,
-    "timeWeek": 510,
-    "timeMonth": 510,
-    "timeYear": 510,
+    "uptime": "0.97%",
+    "uptimeDay": "0.97%",
+    "uptimeWeek": "0.97%",
+    "uptimeMonth": "0.97%",
+    "uptimeYear": "0.97%",
+    "time": 395,
+    "timeDay": 395,
+    "timeWeek": 395,
+    "timeMonth": 395,
+    "timeYear": 395,
     "dailyMinutesDown": {
-      "2021-12-20": 1
+      "2021-12-20": 4
     }
   },
   {
@@ -269,11 +269,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 255,
-    "timeWeek": 255,
-    "timeMonth": 255,
-    "timeYear": 255,
+    "time": 201,
+    "timeDay": 201,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
@@ -282,18 +282,18 @@
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-redirect",
     "status": "down",
-    "uptime": "5.86%",
-    "uptimeDay": "5.86%",
-    "uptimeWeek": "5.86%",
-    "uptimeMonth": "5.86%",
-    "uptimeYear": "5.86%",
-    "time": 404,
-    "timeDay": 404,
-    "timeWeek": 404,
-    "timeMonth": 404,
-    "timeYear": 404,
+    "uptime": "0.51%",
+    "uptimeDay": "0.51%",
+    "uptimeWeek": "0.51%",
+    "uptimeMonth": "0.51%",
+    "uptimeYear": "0.51%",
+    "time": 314,
+    "timeDay": 314,
+    "timeWeek": 314,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2021-12-20": 0
+      "2021-12-20": 4
     }
   }
 ]
