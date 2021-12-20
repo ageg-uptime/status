@@ -46,18 +46,18 @@
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-redirect",
     "status": "degraded",
-    "uptime": "97.21%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "97.21%",
-    "uptimeMonth": "97.21%",
-    "uptimeYear": "97.21%",
+    "uptime": "94.72%",
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "94.72%",
+    "uptimeMonth": "94.72%",
+    "uptimeYear": "94.72%",
     "time": 1055,
     "timeDay": 1055,
     "timeWeek": 1055,
     "timeMonth": 1055,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2021-12-20": 0
+      "2021-12-20": 1
     }
   },
   {
@@ -238,19 +238,17 @@
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-redirect",
     "status": "up",
-    "uptime": "2.73%",
-    "uptimeDay": "2.73%",
-    "uptimeWeek": "2.73%",
-    "uptimeMonth": "2.73%",
-    "uptimeYear": "2.73%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 425,
     "timeDay": 425,
     "timeWeek": 425,
     "timeMonth": 425,
     "timeYear": 425,
-    "dailyMinutesDown": {
-      "2021-12-20": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Formulaire activités sécurité UdeS (prod)",
@@ -276,18 +274,16 @@
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-redirect",
     "status": "up",
-    "uptime": "2.26%",
-    "uptimeDay": "2.26%",
-    "uptimeWeek": "2.26%",
-    "uptimeMonth": "2.26%",
-    "uptimeYear": "2.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 340,
     "timeDay": 340,
     "timeWeek": 340,
     "timeMonth": 340,
     "timeYear": 340,
-    "dailyMinutesDown": {
-      "2021-12-20": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
