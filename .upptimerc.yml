@@ -80,6 +80,11 @@ sites:
       - 200
     maxResponseTime: 400
 
+  - name: Soutien à la vie étudiante (prod)
+    url: https://www.usherbrooke.ca/etudiants/vie-etudiante/soutien-a-la-vie-etudiante
+    expectedStatusCodes:
+      - 200
+
   - name: Sécurité UdeS (prod)
     url: https://www.usherbrooke.ca/smsp/securite
     expectedStatusCodes:
