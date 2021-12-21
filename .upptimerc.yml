@@ -24,7 +24,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 301
-    maxResponseTime: 800
 
   - name: Vote (prod)
     url: https://vote.ageg.ca/
