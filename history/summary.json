@@ -22,18 +22,20 @@
     "url": "https://www.ageg.ca/",
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-prod",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1016,
-    "timeDay": 3206,
-    "timeWeek": 1847,
-    "timeMonth": 1016,
-    "timeYear": 1016,
-    "dailyMinutesDown": {}
+    "time": 1027,
+    "timeDay": 1400,
+    "timeWeek": 1874,
+    "timeMonth": 1027,
+    "timeYear": 1027,
+    "dailyMinutesDown": {
+      "2021-12-31": 0
+    }
   },
   {
     "name": "AGEG website (redirect)",
