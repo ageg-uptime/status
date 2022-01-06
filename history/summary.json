@@ -166,19 +166,19 @@
     "url": "https://2mdg.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-gitlab-page",
-    "status": "degraded",
-    "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 466,
-    "timeDay": 1702,
-    "timeWeek": 641,
-    "timeMonth": 605,
-    "timeYear": 466,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 465,
+    "timeDay": 1261,
+    "timeWeek": 611,
+    "timeMonth": 601,
+    "timeYear": 465,
     "dailyMinutesDown": {
-      "2022-01-06": 2
+      "2022-01-06": 13
     }
   },
   {
