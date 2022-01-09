@@ -119,18 +119,18 @@
     "icon": "https://integs.ageg.ca/favicon.ico",
     "slug": "integs-redirect",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 299,
     "timeDay": 664,
     "timeWeek": 452,
     "timeMonth": 316,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2022-01-09": 33
+      "2022-01-09": 20
     }
   },
   {
@@ -138,19 +138,19 @@
     "url": "https://integ.ageg.ca/",
     "icon": "https://integ.ageg.ca/favicon.ico",
     "slug": "integ-redirect",
-    "status": "degraded",
-    "uptime": "99.97%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 334,
-    "timeDay": 687,
-    "timeWeek": 417,
-    "timeMonth": 441,
+    "timeDay": 558,
+    "timeWeek": 404,
+    "timeMonth": 437,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2022-01-09": 14
+      "2022-01-09": 24
     }
   },
   {
