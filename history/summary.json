@@ -118,17 +118,17 @@
     "url": "https://integs.ageg.ca/",
     "icon": "https://integs.ageg.ca/favicon.ico",
     "slug": "integs-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.96%",
-    "uptimeDay": "98.63%",
+    "uptimeDay": "98.60%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 297,
-    "timeDay": 840,
-    "timeWeek": 464,
-    "timeMonth": 312,
-    "timeYear": 297,
+    "time": 299,
+    "timeDay": 752,
+    "timeWeek": 466,
+    "timeMonth": 316,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2022-01-09": 20
     }
@@ -138,18 +138,20 @@
     "url": "https://integ.ageg.ca/",
     "icon": "https://integ.ageg.ca/favicon.ico",
     "slug": "integ-redirect",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 216,
-    "timeWeek": 311,
-    "timeMonth": 422,
-    "timeYear": 326,
-    "dailyMinutesDown": {}
+    "time": 334,
+    "timeDay": 687,
+    "timeWeek": 417,
+    "timeMonth": 441,
+    "timeYear": 334,
+    "dailyMinutesDown": {
+      "2022-01-09": 0
+    }
   },
   {
     "name": "2 Minutes de génie (prod)",
@@ -201,7 +203,7 @@
     "time": 591,
     "timeDay": 348,
     "timeWeek": 124,
-    "timeMonth": 827,
+    "timeMonth": 795,
     "timeYear": 591,
     "dailyMinutesDown": {}
   },
