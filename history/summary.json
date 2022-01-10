@@ -4,9 +4,9 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 382,
     "timeMonth": 438,
     "timeYear": 506,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 0
+    }
   },
   {
     "name": "AGEG website (prod)",
@@ -218,9 +220,9 @@
     "url": "https://www.usherbrooke.ca/etudiants/vie-etudiante/soutien-a-la-vie-etudiante",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "soutien-a-la-vie-etudiante-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -229,16 +231,18 @@
     "timeWeek": 765,
     "timeMonth": 824,
     "timeYear": 824,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 0
+    }
   },
   {
     "name": "Sécurité UdeS (prod)",
     "url": "https://www.usherbrooke.ca/smsp/securite",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -247,16 +251,18 @@
     "timeWeek": 252,
     "timeMonth": 326,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 0
+    }
   },
   {
     "name": "Sécurité UdeS (redirect)",
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -265,16 +271,18 @@
     "timeWeek": 333,
     "timeMonth": 345,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 0
+    }
   },
   {
     "name": "Formulaire activités sécurité UdeS (prod)",
     "url": "https://www.usherbrooke.ca/smsp/service-a-la-clientele/activites-sur-les-campus",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -283,16 +291,18 @@
     "timeWeek": 207,
     "timeMonth": 213,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 0
+    }
   },
   {
     "name": "Formulaire activités sécurité UdeS (redirect)",
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/formulaires/",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -301,6 +311,8 @@
     "timeWeek": 322,
     "timeMonth": 361,
     "timeYear": 361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 0
+    }
   }
 ]
