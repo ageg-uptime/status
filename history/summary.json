@@ -5,18 +5,18 @@
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 507,
     "timeDay": 533,
     "timeWeek": 416,
     "timeMonth": 440,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2022-01-10": 37
+      "2022-01-10": 27
     }
   },
   {
@@ -222,18 +222,18 @@
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "soutien-a-la-vie-etudiante-prod",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 791,
     "timeDay": 414,
     "timeWeek": 729,
     "timeMonth": 791,
     "timeYear": 791,
     "dailyMinutesDown": {
-      "2022-01-10": 37
+      "2022-01-10": 27
     }
   },
   {
@@ -242,18 +242,18 @@
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-prod",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 316,
     "timeDay": 186,
     "timeWeek": 245,
     "timeMonth": 316,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2022-01-10": 37
+      "2022-01-10": 27
     }
   },
   {
@@ -262,18 +262,18 @@
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-redirect",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 336,
     "timeDay": 228,
     "timeWeek": 314,
     "timeMonth": 336,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2022-01-10": 37
+      "2022-01-10": 27
     }
   },
   {
@@ -282,18 +282,18 @@
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-prod",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 209,
     "timeDay": 147,
     "timeWeek": 197,
     "timeMonth": 209,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2022-01-10": 37
+      "2022-01-10": 27
     }
   },
   {
@@ -302,18 +302,18 @@
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-redirect",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 352,
     "timeDay": 230,
     "timeWeek": 308,
     "timeMonth": 352,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2022-01-10": 37
+      "2022-01-10": 27
     }
   }
 ]
