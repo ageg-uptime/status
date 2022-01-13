@@ -185,19 +185,19 @@
     "url": "https://2mdg.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-gitlab-page",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 473,
-    "timeDay": 1596,
-    "timeWeek": 837,
-    "timeMonth": 607,
+    "timeDay": 1197,
+    "timeWeek": 797,
+    "timeMonth": 603,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2022-01-13": 0
+      "2022-01-13": 33
     }
   },
   {
@@ -205,19 +205,19 @@
     "url": "https://2mdgstaging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-staging",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 1792,
-    "timeWeek": 610,
-    "timeMonth": 825,
-    "timeYear": 601,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
+    "time": 597,
+    "timeDay": 1222,
+    "timeWeek": 551,
+    "timeMonth": 810,
+    "timeYear": 597,
     "dailyMinutesDown": {
-      "2022-01-13": 0
+      "2022-01-13": 33
     }
   },
   {
