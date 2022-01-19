@@ -23,19 +23,17 @@
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-prod",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1011,
     "timeDay": 3122,
     "timeWeek": 1387,
     "timeMonth": 1166,
     "timeYear": 1011,
-    "dailyMinutesDown": {
-      "2022-01-19": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AGEG website (redirect)",
@@ -168,18 +166,19 @@
     "url": "https://2mdg.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-gitlab-page",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 482,
-    "timeDay": 65,
-    "timeWeek": 788,
-    "timeMonth": 513,
-    "timeYear": 482,
+    "time": 518,
+    "timeDay": 2816,
+    "timeWeek": 1186,
+    "timeMonth": 625,
+    "timeYear": 518,
     "dailyMinutesDown": {
+      "2022-01-19": 0,
       "2022-01-16": 16
     }
   },
