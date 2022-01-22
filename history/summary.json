@@ -4,9 +4,9 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 435,
     "timeYear": 507,
     "dailyMinutesDown": {
+      "2022-01-22": 0,
       "2022-01-20": 16
     }
   },
@@ -206,9 +207,9 @@
     "url": "https://www.usherbrooke.ca/etudiants/vie-etudiante/soutien-a-la-vie-etudiante",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "soutien-a-la-vie-etudiante-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -218,6 +219,7 @@
     "timeMonth": 782,
     "timeYear": 775,
     "dailyMinutesDown": {
+      "2022-01-22": 0,
       "2022-01-20": 16
     }
   },
@@ -226,9 +228,9 @@
     "url": "https://www.usherbrooke.ca/smsp/securite",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -238,6 +240,7 @@
     "timeMonth": 258,
     "timeYear": 292,
     "dailyMinutesDown": {
+      "2022-01-22": 0,
       "2022-01-20": 16
     }
   },
@@ -246,9 +249,9 @@
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.77%",
@@ -258,6 +261,7 @@
     "timeMonth": 321,
     "timeYear": 327,
     "dailyMinutesDown": {
+      "2022-01-22": 0,
       "2022-01-20": 16,
       "2022-01-11": 92
     }
@@ -267,9 +271,9 @@
     "url": "https://www.usherbrooke.ca/smsp/service-a-la-clientele/activites-sur-les-campus",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -279,6 +283,7 @@
     "timeMonth": 212,
     "timeYear": 211,
     "dailyMinutesDown": {
+      "2022-01-22": 0,
       "2022-01-20": 16
     }
   },
@@ -287,9 +292,9 @@
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/formulaires/",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.77%",
@@ -299,6 +304,7 @@
     "timeMonth": 337,
     "timeYear": 335,
     "dailyMinutesDown": {
+      "2022-01-22": 0,
       "2022-01-20": 16,
       "2022-01-11": 92
     }
