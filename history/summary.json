@@ -181,10 +181,10 @@
     "url": "https://2mdg.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-gitlab-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.91%",
     "time": 545,
@@ -193,6 +193,7 @@
     "timeMonth": 808,
     "timeYear": 545,
     "dailyMinutesDown": {
+      "2022-01-31": 1,
       "2022-01-23": 61,
       "2022-01-16": 16
     }
@@ -202,18 +203,19 @@
     "url": "https://2mdgstaging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-staging",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 554,
     "timeDay": 75,
     "timeWeek": 497,
     "timeMonth": 387,
     "timeYear": 554,
     "dailyMinutesDown": {
+      "2022-01-31": 0,
       "2022-01-28": 18,
       "2022-01-23": 61
     }
