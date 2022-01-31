@@ -4,18 +4,19 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.95%",
     "time": 508,
     "timeDay": 491,
     "timeWeek": 581,
     "timeMonth": 478,
     "timeYear": 508,
     "dailyMinutesDown": {
+      "2022-01-31": 1,
       "2022-01-22": 21,
       "2022-01-20": 16
     }
@@ -161,11 +162,11 @@
     "icon": "https://2mdg.ageg.ca/images/logo-2mg.png",
     "slug": "2-minutes-de-genie-prod",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 279,
     "timeDay": 63,
     "timeWeek": 76,
@@ -222,9 +223,9 @@
     "url": "https://www.usherbrooke.ca/etudiants/vie-etudiante/soutien-a-la-vie-etudiante",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "soutien-a-la-vie-etudiante-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
@@ -234,6 +235,7 @@
     "timeMonth": 697,
     "timeYear": 738,
     "dailyMinutesDown": {
+      "2022-01-31": 0,
       "2022-01-22": 21,
       "2022-01-20": 16
     }
@@ -243,9 +245,9 @@
     "url": "https://www.usherbrooke.ca/smsp/securite",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
@@ -255,6 +257,7 @@
     "timeMonth": 238,
     "timeYear": 279,
     "dailyMinutesDown": {
+      "2022-01-31": 0,
       "2022-01-22": 21,
       "2022-01-20": 16
     }
@@ -264,9 +267,9 @@
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.78%",
@@ -276,6 +279,7 @@
     "timeMonth": 303,
     "timeYear": 319,
     "dailyMinutesDown": {
+      "2022-01-31": 0,
       "2022-01-22": 21,
       "2022-01-20": 16,
       "2022-01-11": 92
@@ -286,9 +290,9 @@
     "url": "https://www.usherbrooke.ca/smsp/service-a-la-clientele/activites-sur-les-campus",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
@@ -298,6 +302,7 @@
     "timeMonth": 200,
     "timeYear": 205,
     "dailyMinutesDown": {
+      "2022-01-31": 0,
       "2022-01-22": 21,
       "2022-01-20": 16
     }
@@ -307,9 +312,9 @@
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/formulaires/",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.78%",
@@ -319,6 +324,7 @@
     "timeMonth": 312,
     "timeYear": 325,
     "dailyMinutesDown": {
+      "2022-01-31": 0,
       "2022-01-22": 21,
       "2022-01-20": 16,
       "2022-01-11": 92
