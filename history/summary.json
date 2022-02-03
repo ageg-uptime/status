@@ -162,18 +162,17 @@
     "icon": "https://2mdg.ageg.ca/images/logo-2mg.png",
     "slug": "2-minutes-de-genie-prod",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.85%",
     "time": 273,
     "timeDay": 82,
     "timeWeek": 83,
     "timeMonth": 74,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-02-02": 12,
       "2022-02-01": 70,
       "2022-01-23": 62
     }
