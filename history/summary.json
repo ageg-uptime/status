@@ -24,10 +24,10 @@
     "url": "https://www.ageg.ca/",
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1350,
@@ -36,6 +36,7 @@
     "timeMonth": 1721,
     "timeYear": 1350,
     "dailyMinutesDown": {
+      "2022-04-19": 1,
       "2022-04-15": 33
     }
   },
@@ -44,10 +45,10 @@
     "url": "https://ageg.ca/",
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1260,
@@ -55,7 +56,9 @@
     "timeWeek": 1198,
     "timeMonth": 1206,
     "timeYear": 1260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 1
+    }
   },
   {
     "name": "Vote (prod)",
@@ -63,18 +66,18 @@
     "icon": "https://vote.ageg.ca/tmp/assets/c35a266c/favicon.ico",
     "slug": "vote-prod",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.97%",
     "time": 749,
     "timeDay": 491,
     "timeWeek": 573,
     "timeMonth": 533,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2022-04-19": 0
+      "2022-04-19": 57
     }
   },
   {
