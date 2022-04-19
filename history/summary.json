@@ -26,9 +26,9 @@
     "slug": "ageg-website-prod",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1350,
     "timeDay": 589,
@@ -36,7 +36,6 @@
     "timeMonth": 1721,
     "timeYear": 1350,
     "dailyMinutesDown": {
-      "2022-04-19": 14,
       "2022-04-15": 33
     }
   },
@@ -63,9 +62,9 @@
     "url": "https://vote.ageg.ca/",
     "icon": "https://vote.ageg.ca/tmp/assets/c35a266c/favicon.ico",
     "slug": "vote-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +73,9 @@
     "timeWeek": 573,
     "timeMonth": 533,
     "timeYear": 749,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "Integrations (prod)",
