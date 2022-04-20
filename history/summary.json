@@ -194,19 +194,17 @@
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-staging",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 515,
     "timeDay": 1138,
     "timeWeek": 434,
     "timeMonth": 355,
     "timeYear": 515,
-    "dailyMinutesDown": {
-      "2022-04-19": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Soutien à la vie étudiante (prod)",
