@@ -175,36 +175,40 @@
     "url": "https://2mdg.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-gitlab-page",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 107,
-    "timeWeek": 502,
-    "timeMonth": 373,
-    "timeYear": 611,
-    "dailyMinutesDown": {}
+    "time": 620,
+    "timeDay": 1648,
+    "timeWeek": 746,
+    "timeMonth": 440,
+    "timeYear": 620,
+    "dailyMinutesDown": {
+      "2022-04-21": 0
+    }
   },
   {
     "name": "2 Minutes de génie (staging)",
     "url": "https://2mdgstaging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-staging",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 514,
-    "timeDay": 175,
-    "timeWeek": 415,
-    "timeMonth": 357,
-    "timeYear": 514,
-    "dailyMinutesDown": {}
+    "time": 524,
+    "timeDay": 1692,
+    "timeWeek": 669,
+    "timeMonth": 430,
+    "timeYear": 524,
+    "dailyMinutesDown": {
+      "2022-04-21": 0
+    }
   },
   {
     "name": "Soutien à la vie étudiante (prod)",
