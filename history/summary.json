@@ -4,18 +4,19 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
     "time": 726,
     "timeDay": 371,
     "timeWeek": 479,
-    "timeMonth": 727,
+    "timeMonth": 730,
     "timeYear": 726,
     "dailyMinutesDown": {
+      "2022-04-23": 0,
       "2022-04-21": 15,
       "2022-04-17": 45
     }
@@ -34,7 +35,7 @@
     "time": 1338,
     "timeDay": 501,
     "timeWeek": 584,
-    "timeMonth": 1708,
+    "timeMonth": 1641,
     "timeYear": 1338,
     "dailyMinutesDown": {
       "2022-04-19": 41,
@@ -165,7 +166,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 73,
+    "timeDay": 67,
     "timeWeek": 133,
     "timeMonth": 155,
     "timeYear": 304,
@@ -183,9 +184,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 614,
-    "timeDay": 197,
+    "timeDay": 68,
     "timeWeek": 673,
-    "timeMonth": 429,
+    "timeMonth": 413,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2022-04-21": 22
@@ -203,7 +204,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 519,
-    "timeDay": 69,
+    "timeDay": 74,
     "timeWeek": 643,
     "timeMonth": 358,
     "timeYear": 519,
@@ -216,9 +217,9 @@
     "url": "https://www.usherbrooke.ca/etudiants/vie-etudiante/soutien-a-la-vie-etudiante",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "soutien-a-la-vie-etudiante-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
@@ -228,6 +229,7 @@
     "timeMonth": 886,
     "timeYear": 765,
     "dailyMinutesDown": {
+      "2022-04-23": 1,
       "2022-04-17": 45
     }
   },
@@ -236,9 +238,9 @@
     "url": "https://www.usherbrooke.ca/smsp/securite",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
@@ -248,6 +250,7 @@
     "timeMonth": 347,
     "timeYear": 301,
     "dailyMinutesDown": {
+      "2022-04-23": 1,
       "2022-04-17": 45
     }
   },
@@ -256,9 +259,9 @@
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
@@ -268,6 +271,7 @@
     "timeMonth": 434,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2022-04-23": 1,
       "2022-04-17": 45
     }
   },
@@ -276,9 +280,9 @@
     "url": "https://www.usherbrooke.ca/smsp/service-a-la-clientele/activites-sur-les-campus",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
@@ -288,6 +292,7 @@
     "timeMonth": 319,
     "timeYear": 258,
     "dailyMinutesDown": {
+      "2022-04-23": 0,
       "2022-04-17": 45
     }
   },
@@ -296,9 +301,9 @@
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/formulaires/",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
@@ -308,6 +313,7 @@
     "timeMonth": 430,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2022-04-23": 0,
       "2022-04-17": 45
     }
   }
