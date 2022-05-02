@@ -150,19 +150,19 @@
     "url": "https://2mdg.ageg.ca/",
     "icon": "https://2mdg.ageg.ca/images/logo-2mg.png",
     "slug": "2-minutes-de-genie-prod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 88,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
+    "time": 284,
+    "timeDay": 90,
     "timeWeek": 99,
     "timeMonth": 116,
-    "timeYear": 285,
+    "timeYear": 284,
     "dailyMinutesDown": {
-      "2022-05-02": 1
+      "2022-05-02": 42
     }
   },
   {
@@ -170,19 +170,19 @@
     "url": "https://2mdg.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-gitlab-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 179,
-    "timeWeek": 210,
-    "timeMonth": 362,
-    "timeYear": 581,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
+    "time": 579,
+    "timeDay": 160,
+    "timeWeek": 205,
+    "timeMonth": 358,
+    "timeYear": 579,
     "dailyMinutesDown": {
-      "2022-05-02": 1
+      "2022-05-02": 41
     }
   },
   {
@@ -190,19 +190,19 @@
     "url": "https://2mdgstaging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 178,
-    "timeWeek": 145,
-    "timeMonth": 300,
-    "timeYear": 487,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
+    "time": 486,
+    "timeDay": 158,
+    "timeWeek": 142,
+    "timeMonth": 296,
+    "timeYear": 486,
     "dailyMinutesDown": {
-      "2022-05-02": 0
+      "2022-05-02": 41
     }
   },
   {
