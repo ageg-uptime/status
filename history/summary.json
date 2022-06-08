@@ -189,9 +189,9 @@
     "url": "https://2mdg.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-gitlab-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -201,6 +201,7 @@
     "timeMonth": 208,
     "timeYear": 461,
     "dailyMinutesDown": {
+      "2022-06-08": 0,
       "2022-05-02": 41
     }
   },
