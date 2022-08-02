@@ -1,7 +1,7 @@
 url: https://www.usherbrooke.ca/smsp/securite
-status: down
-code: 500
-responseTime: 211
-lastUpdated: 2022-08-02T09:23:53.909Z
+status: up
+code: 200
+responseTime: 321
+lastUpdated: 2022-08-02T09:39:20.876Z
 startTime: Mon Dec 20 2021 20:39:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
