@@ -200,18 +200,18 @@
     "icon": "https://okto.ageg.ca/favicon.ico",
     "slug": "okto-prod",
     "status": "down",
-    "uptime": "0.70%",
-    "uptimeDay": "0.70%",
-    "uptimeWeek": "0.70%",
-    "uptimeMonth": "0.70%",
-    "uptimeYear": "0.70%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-27": 2
+      "2022-08-27": 25
     }
   },
   {
@@ -220,18 +220,18 @@
     "icon": "https://okto.ageg.ca/favicon.ico",
     "slug": "oktoberfest-prod",
     "status": "down",
-    "uptime": "22.99%",
-    "uptimeDay": "22.99%",
-    "uptimeWeek": "22.99%",
-    "uptimeMonth": "22.99%",
-    "uptimeYear": "22.99%",
+    "uptime": "2.00%",
+    "uptimeDay": "2.00%",
+    "uptimeWeek": "2.00%",
+    "uptimeMonth": "2.00%",
+    "uptimeYear": "2.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-27": 2
+      "2022-08-27": 24
     }
   },
   {
@@ -251,7 +251,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-27": 2
+      "2022-08-27": 24
     }
   },
   {
@@ -260,18 +260,18 @@
     "icon": "https://okto.ageg.ca/favicon.ico",
     "slug": "oktoberfest-redirect",
     "status": "down",
-    "uptime": "30.38%",
-    "uptimeDay": "30.38%",
-    "uptimeWeek": "30.38%",
-    "uptimeMonth": "30.38%",
-    "uptimeYear": "30.38%",
+    "uptime": "2.04%",
+    "uptimeDay": "2.04%",
+    "uptimeWeek": "2.04%",
+    "uptimeMonth": "2.04%",
+    "uptimeYear": "2.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-27": 1
+      "2022-08-27": 23
     }
   },
   {
@@ -297,19 +297,19 @@
     "url": "https://okto-ageg-staging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "okto-ageg-staging",
-    "status": "down",
-    "uptime": "0.82%",
-    "uptimeDay": "0.82%",
-    "uptimeWeek": "0.82%",
-    "uptimeMonth": "0.82%",
-    "uptimeYear": "0.82%",
-    "time": 388,
-    "timeDay": 388,
-    "timeWeek": 388,
-    "timeMonth": 388,
-    "timeYear": 388,
+    "status": "degraded",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 462,
+    "timeDay": 462,
+    "timeWeek": 462,
+    "timeMonth": 462,
+    "timeYear": 462,
     "dailyMinutesDown": {
-      "2022-08-27": 1
+      "2022-08-27": 23
     }
   },
   {
