@@ -60,6 +60,43 @@ sites:
       - 301
     maxResponseTime: 400
 
+  - name: Okto (prod)
+    url: https://okto.ageg.ca/
+    icon: https://okto.ageg.ca/favicon.ico
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 400
+  - name: Oktoberfest (prod)
+    url: https://oktoberfest.ageg.ca/
+    icon: https://okto.ageg.ca/favicon.ico
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 400
+  - name: Okto (redirect)
+    url: https://www.okto.ageg.ca/
+    icon: https://okto.ageg.ca/favicon.ico
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 400
+  - name: Oktoberfest (redirect)
+    url: https://www.oktoberfest.ageg.ca/
+    icon: https://okto.ageg.ca/favicon.ico
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 400
+  - name: okto-ageg (gitlab page)
+    url: https://okto-ageg.gitlab.io/
+    expectedStatusCodes:
+      - 200
+    icon: https://about.gitlab.com/ico/favicon.ico
+    maxResponseTime: 400
+  - name: okto-ageg (staging)
+    url: https://okto-ageg-staging.gitlab.io/
+    icon: https://about.gitlab.com/ico/favicon.ico
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 400
+
   - name: 2 Minutes de génie (prod)
     url: https://2mdg.ageg.ca/
     icon: https://2mdg.ageg.ca/images/logo-2mg.png
