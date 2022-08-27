@@ -30,18 +30,19 @@
     "url": "https://www.ageg.ca/",
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-prod",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.65%",
-    "time": 1001,
-    "timeDay": 483,
-    "timeWeek": 727,
-    "timeMonth": 822,
-    "timeYear": 1001,
+    "time": 1003,
+    "timeDay": 828,
+    "timeWeek": 775,
+    "timeMonth": 833,
+    "timeYear": 1003,
     "dailyMinutesDown": {
+      "2022-08-27": 1,
       "2022-08-15": 52,
       "2022-08-04": 27,
       "2022-08-03": 21,
@@ -87,7 +88,7 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.90%",
     "time": 1237,
-    "timeDay": 1157,
+    "timeDay": 937,
     "timeWeek": 1309,
     "timeMonth": 1439,
     "timeYear": 1237,
@@ -110,7 +111,7 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.91%",
     "time": 610,
-    "timeDay": 439,
+    "timeDay": 485,
     "timeWeek": 492,
     "timeMonth": 567,
     "timeYear": 610,
@@ -211,7 +212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-27": 217
+      "2022-08-27": 369
     }
   },
   {
@@ -220,18 +221,18 @@
     "icon": "https://okto.ageg.ca/favicon.ico",
     "slug": "oktoberfest-prod",
     "status": "down",
-    "uptime": "0.23%",
-    "uptimeDay": "0.23%",
-    "uptimeWeek": "0.23%",
-    "uptimeMonth": "0.23%",
-    "uptimeYear": "0.23%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-27": 216
+      "2022-08-27": 369
     }
   },
   {
@@ -251,7 +252,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-27": 216
+      "2022-08-27": 369
     }
   },
   {
@@ -260,18 +261,18 @@
     "icon": "https://okto.ageg.ca/favicon.ico",
     "slug": "oktoberfest-redirect",
     "status": "down",
-    "uptime": "0.23%",
-    "uptimeDay": "0.23%",
-    "uptimeWeek": "0.23%",
-    "uptimeMonth": "0.23%",
-    "uptimeYear": "0.23%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-27": 216
+      "2022-08-27": 368
     }
   },
   {
@@ -298,18 +299,18 @@
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "okto-ageg-staging",
     "status": "degraded",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 523,
     "timeDay": 523,
     "timeWeek": 523,
     "timeMonth": 523,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2022-08-27": 216
+      "2022-08-27": 368
     }
   },
   {
