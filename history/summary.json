@@ -4,10 +4,10 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 592,
@@ -16,6 +16,7 @@
     "timeMonth": 499,
     "timeYear": 592,
     "dailyMinutesDown": {
+      "2022-08-27": 2,
       "2022-06-19": 19,
       "2022-06-17": 18,
       "2022-06-10": 21,
@@ -32,9 +33,9 @@
     "slug": "ageg-website-prod",
     "status": "degraded",
     "uptime": "99.64%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.64%",
     "time": 1007,
     "timeDay": 1675,
@@ -42,7 +43,7 @@
     "timeMonth": 864,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2022-08-27": 41,
+      "2022-08-27": 49,
       "2022-08-15": 52,
       "2022-08-04": 27,
       "2022-08-03": 21,
@@ -105,18 +106,18 @@
     "icon": "https://vote.ageg.ca/tmp/assets/c35a266c/favicon.ico",
     "slug": "vote-prod",
     "status": "degraded",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.90%",
     "time": 612,
     "timeDay": 689,
     "timeWeek": 530,
     "timeMonth": 576,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2022-08-27": 1,
+      "2022-08-27": 9,
       "2022-07-29": 137,
       "2022-06-26": 210,
       "2022-06-07": 15
@@ -213,7 +214,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-27": 409
+      "2022-08-27": 416
     }
   },
   {
@@ -233,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-27": 408
+      "2022-08-27": 416
     }
   },
   {
@@ -253,7 +254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-27": 408
+      "2022-08-27": 416
     }
   },
   {
@@ -273,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-27": 408
+      "2022-08-27": 415
     }
   },
   {
@@ -300,18 +301,18 @@
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "okto-ageg-staging",
     "status": "degraded",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 522,
     "timeDay": 522,
     "timeWeek": 522,
     "timeMonth": 522,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2022-08-27": 408
+      "2022-08-27": 415
     }
   },
   {
@@ -384,10 +385,10 @@
     "url": "https://www.usherbrooke.ca/etudiants/vie-etudiante/soutien-a-la-vie-etudiante",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "soutien-a-la-vie-etudiante-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 746,
@@ -396,6 +397,7 @@
     "timeMonth": 756,
     "timeYear": 746,
     "dailyMinutesDown": {
+      "2022-08-27": 1,
       "2022-06-19": 19,
       "2022-06-17": 18,
       "2022-06-10": 21,
@@ -410,10 +412,10 @@
     "url": "https://www.usherbrooke.ca/smsp/securite",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 313,
@@ -422,6 +424,7 @@
     "timeMonth": 321,
     "timeYear": 313,
     "dailyMinutesDown": {
+      "2022-08-27": 1,
       "2022-06-19": 19,
       "2022-06-17": 17,
       "2022-06-10": 21,
@@ -436,10 +439,10 @@
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "securite-ude-s-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 383,
@@ -448,6 +451,7 @@
     "timeMonth": 374,
     "timeYear": 383,
     "dailyMinutesDown": {
+      "2022-08-27": 1,
       "2022-06-19": 19,
       "2022-06-17": 17,
       "2022-06-10": 21,
@@ -462,10 +466,10 @@
     "url": "https://www.usherbrooke.ca/smsp/service-a-la-clientele/activites-sur-les-campus",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 263,
@@ -474,6 +478,7 @@
     "timeMonth": 262,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2022-08-27": 1,
       "2022-06-19": 19,
       "2022-06-17": 17,
       "2022-06-10": 21,
@@ -488,10 +493,10 @@
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/formulaires/",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "formulaire-activites-securite-ude-s-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 373,
@@ -500,6 +505,7 @@
     "timeMonth": 374,
     "timeYear": 373,
     "dailyMinutesDown": {
+      "2022-08-27": 1,
       "2022-06-19": 19,
       "2022-06-17": 17,
       "2022-06-10": 21,
