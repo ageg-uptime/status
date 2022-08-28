@@ -32,18 +32,18 @@
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-prod",
     "status": "degraded",
-    "uptime": "99.59%",
-    "uptimeDay": "68.08%",
-    "uptimeWeek": "95.44%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "99.59%",
+    "uptime": "99.58%",
+    "uptimeDay": "66.18%",
+    "uptimeWeek": "95.17%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "99.58%",
     "time": 1020,
     "timeDay": 3073,
     "timeWeek": 1223,
     "timeMonth": 940,
     "timeYear": 1020,
     "dailyMinutesDown": {
-      "2022-08-28": 372,
+      "2022-08-28": 400,
       "2022-08-27": 87,
       "2022-08-15": 52,
       "2022-08-04": 27,
@@ -105,18 +105,18 @@
     "icon": "https://vote.ageg.ca/tmp/assets/c35a266c/favicon.ico",
     "slug": "vote-prod",
     "status": "degraded",
-    "uptime": "99.84%",
-    "uptimeDay": "70.84%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.83%",
+    "uptimeDay": "68.94%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.83%",
     "time": 626,
     "timeDay": 2180,
     "timeWeek": 852,
     "timeMonth": 658,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2022-08-28": 373,
+      "2022-08-28": 400,
       "2022-08-27": 47,
       "2022-06-26": 194,
       "2022-06-07": 15
@@ -213,7 +213,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 373,
+      "2022-08-28": 400,
       "2022-08-27": 455
     }
   },
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 373,
+      "2022-08-28": 400,
       "2022-08-27": 454
     }
   },
@@ -255,7 +255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 373,
+      "2022-08-28": 400,
       "2022-08-27": 454
     }
   },
@@ -276,7 +276,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 373,
+      "2022-08-28": 400,
       "2022-08-27": 454
     }
   },
@@ -303,7 +303,7 @@
     "url": "https://okto-ageg-staging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "okto-ageg-staging",
-    "status": "down",
+    "status": "degraded",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -315,7 +315,7 @@
     "timeMonth": 612,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2022-08-28": 373,
+      "2022-08-28": 400,
       "2022-08-27": 453
     }
   },
