@@ -32,18 +32,18 @@
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-prod",
     "status": "degraded",
-    "uptime": "99.39%",
-    "uptimeDay": "16.10%",
-    "uptimeWeek": "88.01%",
-    "uptimeMonth": "97.01%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.35%",
+    "uptimeDay": "5.13%",
+    "uptimeWeek": "86.45%",
+    "uptimeMonth": "96.65%",
+    "uptimeYear": "99.35%",
     "time": 1047,
     "timeDay": 5123,
     "timeWeek": 1885,
     "timeMonth": 1088,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2022-08-28": 1121,
+      "2022-08-28": 1279,
       "2022-08-27": 87,
       "2022-08-15": 52,
       "2022-08-04": 27,
@@ -81,19 +81,19 @@
     "url": "https://ageg.ca/",
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "84.17%",
-    "uptimeWeek": "97.74%",
+    "uptimeDay": "84.07%",
+    "uptimeWeek": "97.72%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.87%",
-    "time": 1358,
-    "timeDay": 9341,
-    "timeWeek": 3539,
-    "timeMonth": 2027,
-    "timeYear": 1358,
+    "time": 1356,
+    "timeDay": 8526,
+    "timeWeek": 3453,
+    "timeMonth": 2015,
+    "timeYear": 1356,
     "dailyMinutesDown": {
-      "2022-08-28": 228,
+      "2022-08-28": 229,
       "2022-06-26": 194,
       "2022-06-07": 17,
       "2022-05-04": 21
@@ -105,18 +105,18 @@
     "icon": "https://vote.ageg.ca/tmp/assets/c35a266c/favicon.ico",
     "slug": "vote-prod",
     "status": "degraded",
-    "uptime": "99.64%",
-    "uptimeDay": "18.87%",
-    "uptimeWeek": "88.41%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.60%",
+    "uptimeDay": "7.89%",
+    "uptimeWeek": "86.84%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "99.60%",
     "time": 633,
     "timeDay": 2338,
     "timeWeek": 994,
     "timeMonth": 701,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2022-08-28": 1121,
+      "2022-08-28": 1279,
       "2022-08-27": 47,
       "2022-06-26": 194,
       "2022-06-07": 15
@@ -213,7 +213,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 1121,
+      "2022-08-28": 1279,
       "2022-08-27": 455
     }
   },
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 1121,
+      "2022-08-28": 1279,
       "2022-08-27": 454
     }
   },
@@ -255,7 +255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 1121,
+      "2022-08-28": 1279,
       "2022-08-27": 454
     }
   },
@@ -276,7 +276,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 1121,
+      "2022-08-28": 1279,
       "2022-08-27": 454
     }
   },
@@ -310,12 +310,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 529,
-    "timeDay": 529,
+    "timeDay": 530,
     "timeWeek": 529,
     "timeMonth": 529,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2022-08-28": 1121,
+      "2022-08-28": 1279,
       "2022-08-27": 453
     }
   },
