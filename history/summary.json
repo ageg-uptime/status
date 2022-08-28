@@ -32,18 +32,18 @@
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-prod",
     "status": "degraded",
-    "uptime": "99.35%",
-    "uptimeDay": "3.89%",
-    "uptimeWeek": "86.27%",
-    "uptimeMonth": "96.61%",
-    "uptimeYear": "99.35%",
+    "uptime": "99.34%",
+    "uptimeDay": "3.10%",
+    "uptimeWeek": "86.16%",
+    "uptimeMonth": "96.59%",
+    "uptimeYear": "99.34%",
     "time": 1047,
     "timeDay": 5123,
     "timeWeek": 1885,
     "timeMonth": 1088,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2022-08-28": 1297,
+      "2022-08-28": 1308,
       "2022-08-27": 87,
       "2022-08-15": 52,
       "2022-08-04": 27,
@@ -104,19 +104,19 @@
     "url": "https://vote.ageg.ca/",
     "icon": "https://vote.ageg.ca/tmp/assets/c35a266c/favicon.ico",
     "slug": "vote-prod",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "6.65%",
-    "uptimeWeek": "86.66%",
-    "uptimeMonth": "96.93%",
-    "uptimeYear": "99.60%",
-    "time": 633,
-    "timeDay": 2150,
-    "timeWeek": 974,
-    "timeMonth": 698,
-    "timeYear": 633,
+    "status": "degraded",
+    "uptime": "99.59%",
+    "uptimeDay": "5.86%",
+    "uptimeWeek": "86.55%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "99.59%",
+    "time": 635,
+    "timeDay": 2158,
+    "timeWeek": 1008,
+    "timeMonth": 709,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2022-08-28": 1297,
+      "2022-08-28": 1308,
       "2022-08-27": 47,
       "2022-06-26": 194,
       "2022-06-07": 15
@@ -213,7 +213,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 1297,
+      "2022-08-28": 1308,
       "2022-08-27": 455
     }
   },
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 1297,
+      "2022-08-28": 1308,
       "2022-08-27": 454
     }
   },
@@ -255,7 +255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 1297,
+      "2022-08-28": 1308,
       "2022-08-27": 454
     }
   },
@@ -276,7 +276,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 1297,
+      "2022-08-28": 1309,
       "2022-08-27": 454
     }
   },
@@ -315,7 +315,7 @@
     "timeMonth": 529,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2022-08-28": 1297,
+      "2022-08-28": 1309,
       "2022-08-27": 453
     }
   },
