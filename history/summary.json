@@ -33,9 +33,9 @@
     "slug": "ageg-website-prod",
     "status": "degraded",
     "uptime": "99.54%",
-    "uptimeDay": "56.73%",
-    "uptimeWeek": "93.82%",
-    "uptimeMonth": "98.35%",
+    "uptimeDay": "55.34%",
+    "uptimeWeek": "93.62%",
+    "uptimeMonth": "98.30%",
     "uptimeYear": "99.54%",
     "time": 1025,
     "timeDay": 3156,
@@ -43,7 +43,7 @@
     "timeMonth": 949,
     "timeYear": 1025,
     "dailyMinutesDown": {
-      "2022-08-28": 536,
+      "2022-08-28": 556,
       "2022-08-27": 87,
       "2022-08-15": 52,
       "2022-08-04": 27,
@@ -106,9 +106,9 @@
     "slug": "vote-prod",
     "status": "degraded",
     "uptime": "99.79%",
-    "uptimeDay": "59.49%",
-    "uptimeWeek": "94.21%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "58.10%",
+    "uptimeWeek": "94.01%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "99.79%",
     "time": 628,
     "timeDay": 2013,
@@ -116,7 +116,7 @@
     "timeMonth": 669,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2022-08-28": 536,
+      "2022-08-28": 556,
       "2022-08-27": 47,
       "2022-06-26": 194,
       "2022-06-07": 15
@@ -213,7 +213,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 536,
+      "2022-08-28": 556,
       "2022-08-27": 455
     }
   },
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 536,
+      "2022-08-28": 556,
       "2022-08-27": 454
     }
   },
@@ -255,7 +255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 536,
+      "2022-08-28": 556,
       "2022-08-27": 454
     }
   },
@@ -276,7 +276,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 536,
+      "2022-08-28": 556,
       "2022-08-27": 454
     }
   },
@@ -303,19 +303,19 @@
     "url": "https://okto-ageg-staging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "okto-ageg-staging",
-    "status": "degraded",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 574,
-    "timeDay": 574,
-    "timeWeek": 574,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "time": 562,
+    "timeDay": 562,
+    "timeWeek": 562,
+    "timeMonth": 562,
+    "timeYear": 562,
     "dailyMinutesDown": {
-      "2022-08-28": 537,
+      "2022-08-28": 556,
       "2022-08-27": 453
     }
   },
