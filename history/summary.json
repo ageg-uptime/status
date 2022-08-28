@@ -33,9 +33,9 @@
     "slug": "ageg-website-prod",
     "status": "degraded",
     "uptime": "99.60%",
-    "uptimeDay": "71.15%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "98.78%",
+    "uptimeDay": "70.47%",
+    "uptimeWeek": "95.78%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "99.60%",
     "time": 1020,
     "timeDay": 3073,
@@ -43,7 +43,7 @@
     "timeMonth": 940,
     "timeYear": 1020,
     "dailyMinutesDown": {
-      "2022-08-28": 328,
+      "2022-08-28": 338,
       "2022-08-27": 87,
       "2022-08-15": 52,
       "2022-08-04": 27,
@@ -105,18 +105,18 @@
     "icon": "https://vote.ageg.ca/tmp/assets/c35a266c/favicon.ico",
     "slug": "vote-prod",
     "status": "degraded",
-    "uptime": "99.85%",
-    "uptimeDay": "73.91%",
-    "uptimeWeek": "96.27%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.84%",
+    "uptimeDay": "73.23%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.84%",
     "time": 626,
     "timeDay": 2180,
     "timeWeek": 852,
     "timeMonth": 658,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2022-08-28": 328,
+      "2022-08-28": 338,
       "2022-08-27": 47,
       "2022-06-26": 194,
       "2022-06-07": 15
@@ -213,7 +213,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 329,
+      "2022-08-28": 338,
       "2022-08-27": 455
     }
   },
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 329,
+      "2022-08-28": 338,
       "2022-08-27": 454
     }
   },
@@ -255,7 +255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 329,
+      "2022-08-28": 338,
       "2022-08-27": 454
     }
   },
@@ -276,7 +276,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-28": 329,
+      "2022-08-28": 338,
       "2022-08-27": 454
     }
   },
@@ -303,19 +303,19 @@
     "url": "https://okto-ageg-staging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "okto-ageg-staging",
-    "status": "degraded",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 663,
-    "timeDay": 663,
-    "timeWeek": 663,
-    "timeMonth": 663,
-    "timeYear": 663,
+    "time": 631,
+    "timeDay": 631,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {
-      "2022-08-28": 329,
+      "2022-08-28": 338,
       "2022-08-27": 453
     }
   },
