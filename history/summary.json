@@ -35,19 +35,19 @@
     "url": "https://www.ageg.ca/",
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "72.24%",
-    "uptimeWeek": "95.64%",
-    "uptimeMonth": "98.62%",
+    "uptimeDay": "71.54%",
+    "uptimeWeek": "95.54%",
+    "uptimeMonth": "98.59%",
     "uptimeYear": "99.16%",
     "time": 852,
-    "timeDay": 1385,
-    "timeWeek": 956,
-    "timeMonth": 680,
+    "timeDay": 1372,
+    "timeWeek": 955,
+    "timeMonth": 681,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2022-12-02": 399,
+      "2022-12-02": 410,
       "2022-12-01": 40,
       "2022-11-08": 22,
       "2022-11-07": 144,
@@ -130,7 +130,7 @@
     "time": 553,
     "timeDay": 481,
     "timeWeek": 491,
-    "timeMonth": 480,
+    "timeMonth": 479,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2022-11-08": 22,
@@ -177,7 +177,7 @@
     "time": 218,
     "timeDay": 191,
     "timeWeek": 213,
-    "timeMonth": 203,
+    "timeMonth": 202,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2022-10-12": 20
@@ -239,7 +239,7 @@
     "time": 233,
     "timeDay": 249,
     "timeWeek": 234,
-    "timeMonth": 236,
+    "timeMonth": 237,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2022-09-24": 18,
@@ -347,7 +347,7 @@
     "time": 221,
     "timeDay": 200,
     "timeWeek": 229,
-    "timeMonth": 219,
+    "timeMonth": 220,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2022-09-15": 462,
@@ -382,7 +382,7 @@
     "time": 227,
     "timeDay": 184,
     "timeWeek": 238,
-    "timeMonth": 231,
+    "timeMonth": 232,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2022-09-03": 94
@@ -492,7 +492,7 @@
     "time": 732,
     "timeDay": 696,
     "timeWeek": 760,
-    "timeMonth": 715,
+    "timeMonth": 714,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2022-11-14": 19,
@@ -612,7 +612,7 @@
     "time": 388,
     "timeDay": 403,
     "timeWeek": 407,
-    "timeMonth": 400,
+    "timeMonth": 399,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2022-11-14": 19,
