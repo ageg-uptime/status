@@ -1,7 +1,7 @@
 url: https://www.ageg.ca/
-status: up
+status: degraded
 code: 200
-responseTime: 755
-lastUpdated: 2022-12-03T13:48:48.903Z
+responseTime: 2105
+lastUpdated: 2022-12-03T13:59:37.214Z
 startTime: Sun Dec 05 2021 06:18:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
