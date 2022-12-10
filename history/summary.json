@@ -36,17 +36,17 @@
     "url": "https://www.ageg.ca/",
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-prod",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.25%",
-    "uptimeDay": "57.25%",
-    "uptimeWeek": "60.12%",
-    "uptimeMonth": "90.82%",
+    "uptimeDay": "57.22%",
+    "uptimeWeek": "60.30%",
+    "uptimeMonth": "90.86%",
     "uptimeYear": "99.24%",
     "time": 952,
-    "timeDay": 1453,
-    "timeWeek": 1432,
-    "timeMonth": 1122,
-    "timeYear": 951,
+    "timeDay": 1462,
+    "timeWeek": 1434,
+    "timeMonth": 1123,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2022-12-10": 413,
       "2022-12-09": 582,
@@ -54,7 +54,7 @@
       "2022-12-07": 778,
       "2022-12-06": 519,
       "2022-12-05": 521,
-      "2022-12-04": 503
+      "2022-12-04": 484
     }
   },
   {
