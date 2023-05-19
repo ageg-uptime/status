@@ -45,17 +45,16 @@
     "slug": "ageg-website-prod",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "99.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.07%",
     "time": 1149,
     "timeDay": 1901,
-    "timeWeek": 1875,
+    "timeWeek": 1878,
     "timeMonth": 1479,
     "timeYear": 1151,
     "dailyMinutesDown": {
-      "2023-05-18": 11,
       "2023-05-17": 39,
       "2023-05-15": 17,
       "2023-05-13": 47,
@@ -84,7 +83,7 @@
       "2022-11-07": 144,
       "2022-10-24": 38,
       "2022-10-16": 45,
-      "2022-10-15": 86
+      "2022-10-15": 130
     }
   },
   {
