@@ -45,10 +45,10 @@
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-prod",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "98.42%",
+    "uptime": "99.42%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "98.43%",
     "uptimeYear": "99.13%",
     "time": 1219,
     "timeDay": 2157,
@@ -56,7 +56,7 @@
     "timeMonth": 1968,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2023-06-10": 20,
+      "2023-06-10": 17,
       "2023-06-09": 16,
       "2023-06-06": 17,
       "2023-06-05": 28,
@@ -94,7 +94,7 @@
       "2022-12-05": 521,
       "2022-12-04": 520,
       "2022-12-03": 532,
-      "2022-12-02": 16
+      "2022-12-02": 35
     }
   },
   {
@@ -102,18 +102,19 @@
     "url": "https://ageg.ca/",
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-redirect",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "92.96%",
+    "status": "degraded",
+    "uptime": "99.38%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "92.95%",
     "uptimeMonth": "97.00%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.09%",
     "time": 1547,
-    "timeDay": 1757,
-    "timeWeek": 1885,
-    "timeMonth": 1865,
-    "timeYear": 1559,
+    "timeDay": 1783,
+    "timeWeek": 1887,
+    "timeMonth": 1866,
+    "timeYear": 1560,
     "dailyMinutesDown": {
+      "2023-06-10": 1,
       "2023-06-09": 111,
       "2023-06-07": 148,
       "2023-06-06": 51,
@@ -166,7 +167,7 @@
       "2022-10-15": 190,
       "2022-08-29": 272,
       "2022-08-28": 80,
-      "2022-06-26": 194
+      "2022-06-26": 123
     }
   },
   {
@@ -518,7 +519,7 @@
     "status": "up",
     "uptime": "98.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.55%",
+    "uptimeWeek": "94.98%",
     "uptimeMonth": "74.86%",
     "uptimeYear": "97.87%",
     "time": 156,
