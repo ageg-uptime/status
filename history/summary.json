@@ -46,9 +46,9 @@
     "slug": "ageg-website-prod",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "96.24%",
-    "uptimeMonth": "97.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "97.87%",
     "uptimeYear": "99.18%",
     "time": 1268,
     "timeDay": 1937,
@@ -56,7 +56,6 @@
     "timeMonth": 2089,
     "timeYear": 1283,
     "dailyMinutesDown": {
-      "2023-06-22": 11,
       "2023-06-21": 55,
       "2023-06-20": 98,
       "2023-06-19": 21,
@@ -102,7 +101,7 @@
       "2022-12-13": 100,
       "2022-12-06": 416,
       "2022-12-05": 521,
-      "2022-12-04": 283
+      "2022-12-04": 323
     }
   },
   {
@@ -117,7 +116,7 @@
     "uptimeMonth": "95.41%",
     "uptimeYear": "99.01%",
     "time": 1570,
-    "timeDay": 1867,
+    "timeDay": 1884,
     "timeWeek": 1940,
     "timeMonth": 1905,
     "timeYear": 1586,
@@ -329,11 +328,11 @@
     "icon": "https://okto.ageg.ca/favicon.ico",
     "slug": "okto-prod",
     "status": "up",
-    "uptime": "95.26%",
+    "uptime": "95.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "95.26%",
+    "uptimeYear": "95.27%",
     "time": 227,
     "timeDay": 191,
     "timeWeek": 226,
