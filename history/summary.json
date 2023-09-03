@@ -11,9 +11,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.83%",
     "time": 528,
-    "timeDay": 538,
-    "timeWeek": 491,
-    "timeMonth": 539,
+    "timeDay": 489,
+    "timeWeek": 494,
+    "timeMonth": 536,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2023-08-14": 34,
@@ -59,11 +59,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.20%",
-    "time": 1345,
-    "timeDay": 1512,
-    "timeWeek": 1422,
-    "timeMonth": 1451,
-    "timeYear": 1350,
+    "time": 1347,
+    "timeDay": 1450,
+    "timeWeek": 1431,
+    "timeMonth": 1453,
+    "timeYear": 1351,
     "dailyMinutesDown": {
       "2023-08-10": 18,
       "2023-07-26": 59,
@@ -125,16 +125,16 @@
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-redirect",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "98.92%",
-    "time": 1641,
-    "timeDay": 1901,
-    "timeWeek": 1745,
-    "timeMonth": 1812,
-    "timeYear": 1607,
+    "time": 1642,
+    "timeDay": 1685,
+    "timeWeek": 1743,
+    "timeMonth": 1810,
+    "timeYear": 1608,
     "dailyMinutesDown": {
       "2023-08-31": 48,
       "2023-08-11": 21,
@@ -207,8 +207,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "94.76%",
     "time": 503,
-    "timeDay": 459,
-    "timeWeek": 476,
+    "timeDay": 509,
+    "timeWeek": 473,
     "timeMonth": 504,
     "timeYear": 493,
     "dailyMinutesDown": {
@@ -253,10 +253,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 224,
-    "timeDay": 176,
-    "timeWeek": 204,
-    "timeMonth": 222,
+    "time": 223,
+    "timeDay": 198,
+    "timeWeek": 194,
+    "timeMonth": 221,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2023-04-03": 45,
@@ -276,8 +276,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 216,
-    "timeDay": 174,
-    "timeWeek": 206,
+    "timeDay": 212,
+    "timeWeek": 203,
     "timeMonth": 214,
     "timeYear": 215,
     "dailyMinutesDown": {
@@ -298,10 +298,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 211,
-    "timeDay": 177,
-    "timeWeek": 193,
-    "timeMonth": 209,
+    "time": 212,
+    "timeDay": 217,
+    "timeWeek": 192,
+    "timeMonth": 210,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2023-04-03": 45,
@@ -321,9 +321,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 209,
-    "timeDay": 170,
-    "timeWeek": 200,
-    "timeMonth": 207,
+    "timeDay": 215,
+    "timeWeek": 198,
+    "timeMonth": 209,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2023-04-03": 45,
@@ -338,15 +338,15 @@
     "icon": "https://okto.ageg.ca/favicon.ico",
     "slug": "okto-prod",
     "status": "up",
-    "uptime": "96.16%",
+    "uptime": "96.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "97.56%",
+    "uptimeYear": "97.84%",
     "time": 227,
-    "timeDay": 254,
-    "timeWeek": 218,
-    "timeMonth": 231,
+    "timeDay": 220,
+    "timeWeek": 221,
+    "timeMonth": 230,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2023-08-27": 84,
@@ -360,8 +360,7 @@
       "2022-09-07": 1302,
       "2022-09-06": 1440,
       "2022-09-05": 1440,
-      "2022-09-04": 1440,
-      "2022-09-03": 1440
+      "2022-09-04": 1440
     }
   },
   {
@@ -370,15 +369,15 @@
     "icon": "https://okto.ageg.ca/favicon.ico",
     "slug": "oktoberfest-prod",
     "status": "up",
-    "uptime": "96.33%",
+    "uptime": "96.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "97.74%",
+    "uptimeYear": "98.01%",
     "time": 231,
-    "timeDay": 264,
-    "timeWeek": 248,
-    "timeMonth": 233,
+    "timeDay": 284,
+    "timeWeek": 251,
+    "timeMonth": 235,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2023-08-27": 62,
@@ -393,8 +392,7 @@
       "2022-09-07": 928,
       "2022-09-06": 1440,
       "2022-09-05": 1440,
-      "2022-09-04": 1440,
-      "2022-09-03": 1440
+      "2022-09-04": 1440
     }
   },
   {
@@ -403,15 +401,15 @@
     "icon": "https://okto.ageg.ca/favicon.ico",
     "slug": "okto-redirect",
     "status": "up",
-    "uptime": "96.21%",
+    "uptime": "96.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "97.62%",
+    "uptimeYear": "97.89%",
     "time": 211,
-    "timeDay": 172,
-    "timeWeek": 195,
-    "timeMonth": 206,
+    "timeDay": 211,
+    "timeWeek": 198,
+    "timeMonth": 207,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2023-08-27": 32,
@@ -427,8 +425,7 @@
       "2022-09-07": 1302,
       "2022-09-06": 1440,
       "2022-09-05": 1440,
-      "2022-09-04": 1440,
-      "2022-09-03": 1440
+      "2022-09-04": 1440
     }
   },
   {
@@ -437,15 +434,15 @@
     "icon": "https://okto.ageg.ca/favicon.ico",
     "slug": "oktoberfest-redirect",
     "status": "up",
-    "uptime": "96.15%",
+    "uptime": "96.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.56%",
+    "uptimeYear": "97.83%",
     "time": 220,
-    "timeDay": 202,
-    "timeWeek": 217,
-    "timeMonth": 223,
+    "timeDay": 232,
+    "timeWeek": 219,
+    "timeMonth": 222,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2023-08-27": 19,
@@ -461,8 +458,7 @@
       "2022-09-07": 928,
       "2022-09-06": 1440,
       "2022-09-05": 1440,
-      "2022-09-04": 1440,
-      "2022-09-03": 1440
+      "2022-09-04": 1440
     }
   },
   {
@@ -477,15 +473,14 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 224,
-    "timeDay": 222,
+    "timeDay": 211,
     "timeWeek": 217,
-    "timeMonth": 226,
+    "timeMonth": 223,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2023-08-27": 47,
       "2023-07-15": 34,
-      "2023-05-27": 20,
-      "2022-09-03": 94
+      "2023-05-27": 20
     }
   },
   {
@@ -499,16 +494,15 @@
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
-    "time": 201,
-    "timeDay": 143,
-    "timeWeek": 171,
-    "timeMonth": 186,
+    "time": 200,
+    "timeDay": 136,
+    "timeWeek": 161,
+    "timeMonth": 183,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2023-08-27": 44,
       "2023-07-15": 33,
-      "2023-05-27": 20,
-      "2022-09-03": 94
+      "2023-05-27": 20
     }
   },
   {
@@ -522,10 +516,10 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "97.87%",
-    "time": 151,
-    "timeDay": 104,
-    "timeWeek": 135,
-    "timeMonth": 137,
+    "time": 150,
+    "timeDay": 98,
+    "timeWeek": 124,
+    "timeMonth": 136,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2023-08-27": 32,
@@ -538,8 +532,7 @@
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
-      "2023-04-05": 21,
-      "2022-09-03": 93
+      "2023-04-05": 21
     }
   },
   {
@@ -554,9 +547,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
     "time": 217,
-    "timeDay": 259,
-    "timeWeek": 223,
-    "timeMonth": 208,
+    "timeDay": 228,
+    "timeWeek": 224,
+    "timeMonth": 209,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2023-08-27": 56,
@@ -565,8 +558,7 @@
       "2023-03-06": 22,
       "2023-01-26": 19,
       "2022-10-13": 168,
-      "2022-09-28": 28,
-      "2022-09-03": 92
+      "2022-09-28": 28
     }
   },
   {
@@ -581,14 +573,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 161,
-    "timeDay": 171,
-    "timeWeek": 136,
+    "timeDay": 119,
+    "timeWeek": 131,
     "timeMonth": 136,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2023-07-15": 32,
-      "2023-05-27": 19,
-      "2022-09-03": 92
+      "2023-05-27": 19
     }
   },
   {
@@ -597,15 +588,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "soutien-a-la-vie-etudiante-prod",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.90%",
     "time": 816,
-    "timeDay": 785,
-    "timeWeek": 744,
-    "timeMonth": 834,
+    "timeDay": 722,
+    "timeWeek": 726,
+    "timeMonth": 829,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2023-08-14": 34,
@@ -638,9 +629,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.90%",
     "time": 369,
-    "timeDay": 385,
-    "timeWeek": 281,
-    "timeMonth": 326,
+    "timeDay": 254,
+    "timeWeek": 277,
+    "timeMonth": 323,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2023-08-14": 33,
@@ -673,9 +664,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 431,
-    "timeDay": 436,
-    "timeWeek": 378,
-    "timeMonth": 427,
+    "timeDay": 352,
+    "timeWeek": 368,
+    "timeMonth": 424,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2023-06-14": 33,
@@ -707,9 +698,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 318,
-    "timeDay": 407,
-    "timeWeek": 249,
-    "timeMonth": 277,
+    "timeDay": 221,
+    "timeWeek": 248,
+    "timeMonth": 274,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2023-06-14": 33,
@@ -739,9 +730,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 425,
-    "timeDay": 338,
-    "timeWeek": 362,
-    "timeMonth": 422,
+    "timeDay": 355,
+    "timeWeek": 359,
+    "timeMonth": 419,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2023-06-14": 33,
