@@ -17,14 +17,14 @@ sites:
     icon: https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png
     expectedStatusCodes:
       - 200
-    maxResponseTime: 2500
+    maxResponseTime: 3000
   - name: AGEG website (redirect)
     url: https://ageg.ca/
     icon: https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png
     expectedStatusCodes:
       - 200
       - 301
-    maxResponseTime: 2500
+    maxResponseTime: 3000
 
   - name: Vote (prod)
     url: https://vote.ageg.ca/
