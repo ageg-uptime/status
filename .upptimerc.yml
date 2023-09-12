@@ -98,6 +98,21 @@ sites:
       - 200
     maxResponseTime: 400
 
+  - name: Temporary Oktoberfest (prod) (skip verifying the certificate peer)
+    url: https://oktoberfest.ageg.ca/
+    __dangerous__disable_verify_peer: true
+    icon: https://okto.ageg.ca/favicon.ico
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 800
+  - name: Temporary Oktoberfest (prod) (skip verifying the certificate host)
+    url: https://oktoberfest.ageg.ca/
+    __dangerous__disable_verify_host: true
+    icon: https://okto.ageg.ca/favicon.ico
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 800
+
   - name: 2 Minutes de génie (prod)
     url: https://2mdg.ageg.ca/
     icon: https://2mdg.ageg.ca/images/logo-2mg.png
