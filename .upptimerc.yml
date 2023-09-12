@@ -66,25 +66,25 @@ sites:
     icon: https://okto.ageg.ca/favicon.ico
     expectedStatusCodes:
       - 200
-    maxResponseTime: 400
+    maxResponseTime: 800
   - name: Oktoberfest (prod)
     url: https://oktoberfest.ageg.ca/
     icon: https://okto.ageg.ca/favicon.ico
     expectedStatusCodes:
       - 200
-    maxResponseTime: 400
+    maxResponseTime: 800
   - name: Okto (redirect)
     url: https://www.okto.ageg.ca/
     icon: https://okto.ageg.ca/favicon.ico
     expectedStatusCodes:
       - 200
-    maxResponseTime: 400
+    maxResponseTime: 800
   - name: Oktoberfest (redirect)
     url: https://www.oktoberfest.ageg.ca/
     icon: https://okto.ageg.ca/favicon.ico
     expectedStatusCodes:
       - 200
-    maxResponseTime: 400
+    maxResponseTime: 800
   - name: okto-ageg (gitlab page)
     url: https://okto-ageg.gitlab.io/
     expectedStatusCodes:
