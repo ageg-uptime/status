@@ -1,7 +1,7 @@
 url: https://www.usherbrooke.ca/immeubles/la-securite/formulaires/
-status: up
-code: 200
-responseTime: 533
-lastUpdated: 2024-01-06T05:14:48.510Z
+status: down
+code: 500
+responseTime: 170
+lastUpdated: 2024-01-06T06:49:33.320Z
 startTime: 2021-12-20T20:40:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
