@@ -1,7 +1,7 @@
 url: https://oktoberfest.ageg.ca/
-status: up
+status: degraded
 code: 200
-responseTime: 163
-lastUpdated: 2024-01-11T13:19:57.936Z
+responseTime: 2514
+lastUpdated: 2024-01-11T14:59:34.389Z
 startTime: 2023-09-12T08:45:47.242Z
 generator: Upptime <https://github.com/upptime/upptime>
