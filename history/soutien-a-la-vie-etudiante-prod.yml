@@ -1,7 +1,7 @@
 url: https://www.usherbrooke.ca/etudiants/vie-etudiante/soutien-a-la-vie-etudiante
-status: up
-code: 200
-responseTime: 394
-lastUpdated: 2024-01-14T05:14:45.636Z
+status: down
+code: 500
+responseTime: 256
+lastUpdated: 2024-01-14T06:48:33.531Z
 startTime: 2021-12-20T20:53:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
