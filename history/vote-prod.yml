@@ -1,7 +1,7 @@
 url: https://vote.ageg.ca/
-status: degraded
+status: up
 code: 200
-responseTime: 2029
-lastUpdated: 2024-02-13T18:49:38.604Z
+responseTime: 798
+lastUpdated: 2024-02-13T19:12:49.565Z
 startTime: 2021-12-05T03:06:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
