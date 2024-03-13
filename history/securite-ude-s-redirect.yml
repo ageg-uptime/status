@@ -1,7 +1,7 @@
 url: https://www.usherbrooke.ca/immeubles/la-securite/
-status: down
-code: 503
-responseTime: 99
-lastUpdated: 2024-03-13T20:01:25.532Z
+status: up
+code: 200
+responseTime: 270
+lastUpdated: 2024-03-13T20:27:56.211Z
 startTime: 2021-12-20T20:39:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
