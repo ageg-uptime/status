@@ -11,8 +11,8 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "91.58%",
     "time": 433,
-    "timeDay": 389,
-    "timeWeek": 411,
+    "timeDay": 398,
+    "timeWeek": 408,
     "timeMonth": 412,
     "timeYear": 431,
     "dailyMinutesDown": {
@@ -64,8 +64,7 @@
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
-      "2023-11-11": 408,
-      "2023-11-05": 48
+      "2023-11-11": 408
     }
   },
   {
@@ -79,11 +78,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.07%",
-    "time": 2089,
-    "timeDay": 922,
-    "timeWeek": 980,
-    "timeMonth": 1071,
-    "timeYear": 2090,
+    "time": 2088,
+    "timeDay": 1046,
+    "timeWeek": 997,
+    "timeMonth": 1073,
+    "timeYear": 2088,
     "dailyMinutesDown": {
       "2024-11-01": 19,
       "2024-10-18": 129,
@@ -136,11 +135,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.08%",
-    "time": 2125,
-    "timeDay": 575,
-    "timeWeek": 623,
-    "timeMonth": 692,
-    "timeYear": 2123,
+    "time": 2123,
+    "timeDay": 628,
+    "timeWeek": 628,
+    "timeMonth": 693,
+    "timeYear": 2121,
     "dailyMinutesDown": {
       "2024-11-01": 19,
       "2024-10-18": 155,
@@ -196,9 +195,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.87%",
     "time": 532,
-    "timeDay": 431,
-    "timeWeek": 429,
-    "timeMonth": 434,
+    "timeDay": 441,
+    "timeWeek": 441,
+    "timeMonth": 436,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2024-11-01": 19,
@@ -241,8 +240,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 155,
-    "timeWeek": 149,
+    "timeDay": 172,
+    "timeWeek": 150,
     "timeMonth": 143,
     "timeYear": 171,
     "dailyMinutesDown": {
@@ -261,9 +260,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 188,
-    "timeDay": 180,
-    "timeWeek": 176,
-    "timeMonth": 190,
+    "timeDay": 179,
+    "timeWeek": 180,
+    "timeMonth": 191,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2024-09-17": 24,
@@ -281,10 +280,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 186,
-    "timeDay": 199,
-    "timeWeek": 171,
-    "timeMonth": 193,
+    "time": 187,
+    "timeDay": 200,
+    "timeWeek": 177,
+    "timeMonth": 194,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2024-09-17": 24,
@@ -305,9 +304,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 184,
-    "timeDay": 185,
-    "timeWeek": 177,
-    "timeMonth": 190,
+    "timeDay": 195,
+    "timeWeek": 182,
+    "timeMonth": 191,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2024-09-17": 24,
@@ -320,15 +319,15 @@
     "icon": "https://okto.ageg.ca/favicon.ico",
     "slug": "okto-prod",
     "status": "up",
-    "uptime": "81.02%",
+    "uptime": "81.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.54%",
+    "uptimeYear": "77.73%",
     "time": 298,
-    "timeDay": 303,
-    "timeWeek": 276,
-    "timeMonth": 297,
+    "timeDay": 305,
+    "timeWeek": 287,
+    "timeMonth": 299,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2024-08-15": 936,
@@ -411,8 +410,7 @@
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
-      "2023-11-06": 1440,
-      "2023-11-05": 1440
+      "2023-11-06": 1440
     }
   },
   {
@@ -421,15 +419,15 @@
     "icon": "https://okto.ageg.ca/favicon.ico",
     "slug": "oktoberfest-prod",
     "status": "up",
-    "uptime": "81.09%",
+    "uptime": "81.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.54%",
+    "uptimeYear": "77.73%",
     "time": 282,
-    "timeDay": 271,
-    "timeWeek": 266,
-    "timeMonth": 293,
+    "timeDay": 301,
+    "timeWeek": 275,
+    "timeMonth": 295,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2024-08-15": 936,
@@ -512,8 +510,7 @@
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
-      "2023-11-06": 1440,
-      "2023-11-05": 1440
+      "2023-11-06": 1440
     }
   },
   {
@@ -523,13 +520,13 @@
     "slug": "okto-ageg-gitlab-page",
     "status": "up",
     "uptime": "92.01%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "83.55%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "83.73%",
     "time": 159,
-    "timeDay": 177,
-    "timeWeek": 154,
+    "timeDay": 138,
+    "timeWeek": 155,
     "timeMonth": 149,
     "timeYear": 159,
     "dailyMinutesDown": {
@@ -592,8 +589,7 @@
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
-      "2023-11-06": 1440,
-      "2023-11-05": 1440
+      "2023-11-06": 1440
     }
   },
   {
@@ -608,9 +604,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 140,
-    "timeWeek": 170,
-    "timeMonth": 167,
+    "timeDay": 159,
+    "timeWeek": 173,
+    "timeMonth": 168,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -626,9 +622,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 200,
-    "timeWeek": 141,
-    "timeMonth": 144,
+    "timeDay": 139,
+    "timeWeek": 140,
+    "timeMonth": 143,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -643,9 +639,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 322,
-    "timeWeek": 247,
+    "time": 220,
+    "timeDay": 254,
+    "timeWeek": 240,
     "timeMonth": 228,
     "timeYear": 220,
     "dailyMinutesDown": {}
@@ -656,15 +652,15 @@
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-staging",
     "status": "up",
-    "uptime": "93.81%",
+    "uptime": "93.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.99%",
+    "uptimeYear": "83.18%",
     "time": 147,
-    "timeDay": 155,
-    "timeWeek": 138,
-    "timeMonth": 152,
+    "timeDay": 153,
+    "timeWeek": 139,
+    "timeMonth": 149,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2024-01-04": 607,
@@ -726,8 +722,7 @@
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
-      "2023-11-06": 1440,
-      "2023-11-05": 1440
+      "2023-11-06": 1440
     }
   },
   {
@@ -736,18 +731,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "soutien-a-la-vie-etudiante-prod",
     "status": "down",
-    "uptime": "80.99%",
+    "uptime": "80.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.59%",
-    "time": 494,
-    "timeDay": 307,
-    "timeWeek": 300,
-    "timeMonth": 325,
-    "timeYear": 485,
+    "uptimeYear": "45.40%",
+    "time": 493,
+    "timeDay": 324,
+    "timeWeek": 309,
+    "timeMonth": 327,
+    "timeYear": 484,
     "dailyMinutesDown": {
-      "2024-11-03": 484,
+      "2024-11-04": 43,
+      "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
@@ -952,8 +948,7 @@
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
-      "2023-11-11": 407,
-      "2023-11-05": 48
+      "2023-11-11": 407
     }
   },
   {
@@ -962,18 +957,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "securite-ude-s-prod",
     "status": "down",
-    "uptime": "92.86%",
+    "uptime": "92.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.67%",
+    "uptimeYear": "79.48%",
     "time": 220,
-    "timeDay": 123,
-    "timeWeek": 122,
-    "timeMonth": 130,
+    "timeDay": 127,
+    "timeWeek": 125,
+    "timeMonth": 131,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-11-03": 485,
+      "2024-11-04": 43,
+      "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
@@ -1054,8 +1050,7 @@
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
-      "2023-11-11": 407,
-      "2023-11-05": 48
+      "2023-11-11": 407
     }
   },
   {
@@ -1064,18 +1059,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "securite-ude-s-redirect",
     "status": "down",
-    "uptime": "92.52%",
+    "uptime": "92.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.71%",
+    "uptimeYear": "78.52%",
     "time": 301,
-    "timeDay": 217,
-    "timeWeek": 218,
-    "timeMonth": 234,
+    "timeDay": 212,
+    "timeWeek": 220,
+    "timeMonth": 235,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2024-11-03": 485,
+      "2024-11-04": 43,
+      "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
@@ -1161,8 +1157,7 @@
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
-      "2023-11-11": 407,
-      "2023-11-05": 48
+      "2023-11-11": 407
     }
   },
   {
@@ -1177,7 +1172,7 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "91.64%",
     "time": 201,
-    "timeDay": 146,
+    "timeDay": 149,
     "timeWeek": 154,
     "timeMonth": 173,
     "timeYear": 201,
@@ -1220,8 +1215,7 @@
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
-      "2023-11-11": 407,
-      "2023-11-05": 48
+      "2023-11-11": 407
     }
   },
   {
@@ -1236,8 +1230,8 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.93%",
     "time": 307,
-    "timeDay": 213,
-    "timeWeek": 252,
+    "timeDay": 220,
+    "timeWeek": 250,
     "timeMonth": 281,
     "timeYear": 306,
     "dailyMinutesDown": {
@@ -1249,8 +1243,7 @@
       "2024-05-18": 21,
       "2023-12-19": 21,
       "2023-12-12": 54,
-      "2023-12-11": 35,
-      "2023-11-05": 48
+      "2023-12-11": 35
     }
   }
 ]
